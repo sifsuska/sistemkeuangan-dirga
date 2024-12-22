@@ -1,0 +1,44 @@
+[2019-03-11:11:37:52] Nama Admin : saiful => Edit Hutang => 17 => Sukses 
+
+[2020-25-06:09:23:12] Nama Admin : saiful => Edit Pemasukan => 2 => Sukses Edit
+
+[2020-28-10:18:36:05] Nama Admin : Administrator => Edit Pemasukan => 3 => Sukses Edit
+
+[2020-06-12:09:08:32] Nama Admin : Administrator => Edit Pemasukan => 5 => Sukses Edit
+
+[2020-06-12:10:17:08] Nama Admin : ikhsan => Edit Pemasukan => 1 => Sukses Edit
+
+[2020-06-12:11:02:28] Nama Admin : Administrator => Edit Pemasukan => 4 => Sukses Edit
+
+[2020-21-12:18:36:47] Nama Admin : admin => Edit Pemasukan => 4 => Sukses Edit
+
+[2020-21-12:18:37:59] Nama Admin : admin => Edit Pemasukan => 2 => Sukses Edit
+
+[2020-21-12:18:39:15] Nama Admin : admin => Edit Pemasukan => 8 => Sukses Edit
+
+[2020-21-12:18:49:58] Nama Admin : bendahara => Edit Pemasukan => 14 => Sukses Edit
+
+[2020-21-12:18:51:01] Nama Admin : bendahara => Edit Pemasukan => 15 => Sukses Edit
+
+[2020-30-12:17:13:53] Nama Admin : admin => Edit Pemasukan => 18 => Sukses Edit
+
+[2020-30-12:17:16:44] Nama Admin : admin => Edit Pemasukan => 19 => Sukses Edit
+
+[2020-31-12:02:45:09] Nama Admin : admin => Edit Pemasukan => 20 => Sukses Edit
+
+[2020-31-12:02:47:02] Nama Admin : admin => Edit Pemasukan => 21 => Sukses Edit
+
+[2021-25-01:12:39:33] Nama Admin : admin => Edit Pemasukan => 16 => Sukses Edit
+
+[2021-25-01:12:42:06] Nama Admin : admin => Edit Pemasukan => 23 => Sukses Edit
+
+[2021-26-01:14:38:27] Nama Admin : admin => Edit Pemasukan => 24 => Sukses Edit
+
+[2021-26-01:14:39:31] Nama Admin : admin => Edit Pemasukan => 25 => Sukses Edit
+
+[2022-03-01:12:31:48] Nama Admin : admin => Edit Pemasukan => 4 => Sukses Edit
+
+[2022-03-01:17:16:50] Nama Admin : Bendahara Desa => Edit Pemasukan => 7 => Sukses Edit
+
+[2022-03-01:17:17:32] Nama Admin : Bendahara Desa => Edit Pemasukan => 7 => Sukses Edit
+
